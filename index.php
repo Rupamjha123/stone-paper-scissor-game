@@ -113,21 +113,21 @@ echo "<td>";
         else if($ran=="1" && $random=="2")
         {
 
-            echo"<h2>vaibhav is winner</h2>";
+            echo"<h2>vaibhav JHA is winner</h2>";
             $count++;
         }
 
         else if($ran=="1" && $random=="3")
         {
 
-            echo"<h2>RITU is winner</h2>";
+            echo"<h2>RITU JHA is winner</h2>";
             $ritu++;
         }
 
         else if($ran=="2" && $random=="1")
         {
 
-            echo"<h2>RITU is winner</h2>";
+            echo"<h2>RITU JHAis winner</h2>";
             $ritu++;
         }
 
@@ -135,7 +135,7 @@ echo "<td>";
         else if($ran=="2" && $random=="3")
         {
 
-            echo"<h2>VAIBHAV is winner</h2>";
+            echo"<h2>VAIBHAV JHA is winner</h2>";
             $count++;
         }
 
@@ -151,7 +151,7 @@ echo "<td>";
         else if($ran=="3" && $random=="2")
         {
 
-            echo"<h2>RITU is winner</h2>";
+            echo"<h2>RITU JHA is winner</h2>";
             $ritu++;
         }
 
